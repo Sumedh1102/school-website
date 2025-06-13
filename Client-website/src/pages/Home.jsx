@@ -1,5 +1,5 @@
 import React from 'react'
-import Hero from '../Homepage/hero'
+import Hero from '../Homepage/Hero'
 import Main from '../Homepage/Main'
 import Main2 from '../Homepage/Main2'
 import Last from '../Homepage/Last'
